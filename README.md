@@ -1,10 +1,9 @@
-# Assignment 3 – Simple Chat Server
+# Simple Chat Server
 
 **A Java Spring Boot-based backend chat system**  
-Author: **[Your Name Here]**  
 University: **University of Cyprus**  
 Course: **ECE318 – Software Engineering / Web Applications**  
-Date: **[Date or Semester]**
+Date: **December 2022**
 
 ---
 
@@ -112,11 +111,3 @@ You can interact with the backend using tools like Postman or curl.
 
 This project was developed as part of university coursework.  
 All rights reserved. This repository is not licensed for external distribution or reuse without the author's permission.
-
----
-
-## Contact
-
-[Your Name]  
-University of Cyprus  
-Email: [your-email@ucy.ac.cy]
