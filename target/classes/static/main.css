@@ -1,0 +1,134 @@
+#title{
+    box-sizing: border-box;
+    position: inherit;
+    width: 98%;
+    height: 50px;
+    background: #456CA2;
+    border: 1px solid #FCEFEF;
+    border-radius: 20px 20px 0px 0px;
+    margin-left: 1%;
+    margin-top: 15px;
+    margin-right: 1%;
+}
+
+h1{
+    width: 98%;
+    color: white;
+    margin-left: 1%;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.messageArea{
+    border: 1px lightgray solid;
+    width: 98%;
+    margin-left: 1%;
+    overflow-y: scroll;
+    height: 780px;
+    background: #F0F4EF;
+    border-radius: 0px 0px 20px 20px;
+}
+
+td {display:block; box-sizing:border-box; clear:both}
+
+table {width: 100%;}
+
+.deletebutton {
+    display: contents;
+    justify-content: flex-end;
+}
+
+
+.bootstrap_chat {
+background-color: #0028ff;
+min-height: 100vh;
+}
+
+.text-small {
+font-size: 0.9rem;
+}
+
+.messages-box, .chat-box {
+height: 510px;
+overflow-y: scroll;
+}
+
+.rounded-lg {
+border-radius: 0.5rem;
+}
+
+body{
+margin: 0;
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+font-size: 1rem;
+font-weight: 400;
+line-height: 1.5;
+color: #212529;
+text-align: left;
+background: #464646;
+}
+
+.ml-2, .mx-2 {
+margin-left: 0.7rem!important;
+margin-right: 0.77rem!important;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: contents;
+}
+
+.pl-3, .px-3 {
+    padding-left: 1rem!important;
+    display: flex;
+}
+
+.ml-auto, .mx-auto {
+    margin-left: auto!important;
+    margin-right: -350px;
+}
+
+.ml-3, .mx-3 {
+    margin-left: 1rem!important;
+    width: 100%;
+}
+
+.media-body {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    float: right;
+    margin-right: 1%;
+}
+
+button, input {
+    overflow: visible;
+    background-color: #f8f9fa;
+    align-self: center;
+    margin-right: auto;
+    margin-left: 20px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    width: 90%;
+}
+
+.bg-light {
+    box-sizing: border-box;
+    position: inherit;
+    width: 98%;
+    height: 50px;
+    background: #456CA2;
+    border: 1px solid #FCEFEF;
+    border-radius: 20px 20px 20px 20px;
+    margin-left: 1%;
+    margin-top: 15px;
+    margin-right: 1%;
+}
+
+.msgForm{
+    margin-top: -5px;
+}
+
+
+
