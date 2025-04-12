@@ -18,7 +18,7 @@ public class MessageController {
 
     @Autowired
     private MessageRepository repository;
-    private String token = "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";
+    private String token = "INSERT TOKEN HERE";
     OpenAiService service = new OpenAiService(token, 40);
     CompletionRequest request = new CompletionRequest();
     String model ="text-davinci-002";
